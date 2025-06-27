@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Godfrey Ouma.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning B.Sc. (Computer Science).
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me gouma308@gmail.com.
 - 😄 Pronouns: He
 - ⚡ Fun fact: Watching soccer
